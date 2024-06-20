@@ -17,5 +17,6 @@ title elements: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title 
 
 followed this blog for css semantics best practices: https://robdodson.me/posts/css-semantics/
 
-Screen Shot 2024-06-19 at 5 50 09 PM 
-Screen Shot 2024-06-19 at 5 51 49 PM
+![Screen Shot 2024-06-19 at 5 50 09 PM](https://github.com/lothylg/horiseonrepo/assets/171598913/a3ec0711-440f-4982-aa73-e38c956c251e)
+
+![Screen Shot 2024-06-19 at 5 51 49 PM](https://github.com/lothylg/horiseonrepo/assets/171598913/d326cdf4-0e70-4776-b54b-b03cbe844aba)
